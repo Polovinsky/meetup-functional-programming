@@ -15,7 +15,7 @@ public class PureFunctionTest {
     }
 
     @Test
-    public void soma_comValorA_comValorB_deveRetonarSomaDeDosDoisValores() throws Exception {
+    public void soma_comValorA_comValorB_deveRetonarSomaDosDoisValores() throws Exception {
         Double x = 5d;
         Double y = 5d;
         Double resultado = pure.somar(x, y);
