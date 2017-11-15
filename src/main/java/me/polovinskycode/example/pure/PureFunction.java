@@ -1,4 +1,4 @@
-package me.polovinskycode.exemple.pure;
+package me.polovinskycode.example.pure;
 
 public class PureFunction {
 
